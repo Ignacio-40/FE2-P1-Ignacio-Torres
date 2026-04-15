@@ -14,3 +14,10 @@ ETAPA 4:
 Ahora se necesita que el sitio web sea compatible con dispositivos moviles, arregla cualquier error que pueda tener la pagina web en celulares, para lograr una mejor visualizacion y que tenga buena legibilidad 
 Uso: Se necesita este promt para hacer que la pagina sea compatible con los dispositivos moviles, debido a que es en donde mas se usuara la pagina web
 UTILIDAD: Se logro arregla varios problemas, como algunos enlaces que no se veia bien, reduciendo el tamaño del texto para que tenga una mejor legibilidad mejorando la fluidez de la pagina en dispositivos moviles
+ETAPA 5: 
+Ahora por ultimo, necesito lo siguiente, una seccion de tipo ficha de producto comparativa donde incluya, caracteristicas organizadas en tablas, una parte donde tenga almenos 2-3 atributos tecnicos relevantes y que se tenga una presentacion clara 
+Uso: Se uso este promt para añadir una parte final de ficha de producto donde se muestra datos mas tecnicos del celular
+UTILIDAD: Se añadio este apartado aunque ya se tenia una tabla comparativa sigue siendo una buena adicion
+una cosa mas, en el escritorio hay una carpeta llamada "imagenes", dentro de esa carpeta hay 2 imagenes de una celular que puedes usar dentro de la pagina para tener un mejor diseño
+Uso: Una ulima cosa para que se tenga imagenes del celular
+UTILIDAD: De utilidad añadiendo una mejor vision para la pagina
