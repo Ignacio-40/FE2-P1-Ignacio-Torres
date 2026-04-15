@@ -1,0 +1,4 @@
+ETAPA 1: 
+Ayudame a crear una pagina web en esta pagina se debe de promocionar un nuevo telefono que salio en el mercado, para empezar necesitamos que la version inicial del sitio se presente el producto, explique brevemente sus caracterisiticas y que el sitio tenga una estructura basica  
+El proposito de este promt es para crear el diseño inicial de la pagina web y enseñar las caracterisiticas del celular que se quiere promocionar
+UTILIDAD: Fue de gran ayuda este promt debido a que creo las bases de el sitio web que se esta creando
