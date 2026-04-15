@@ -10,3 +10,7 @@ ETAPA 3:
 Ahora seria de utilidad si se puede añadir mas informacion acerca del producto, por ejemplo, una comparativa con otros productos, cuales son los beneficios de tener este producto y tambien cuales son sus caracteristicas principales, todo esto para que ayude a que se venda mejor el producto para los usuarios que visiten la pagina 
 Uso: Este promt fue hecho para que la pagina tenga mas informacion sobre el telefono, añadiendo motivos por el cual los usuarios deberian comprar el celular
 UTILIDAD: Se añadio informacion mas clara sobre el producto, ademas de añadir una tabla comparativa con otros celulares para resaltar mas el producto que se quiere vender
+ETAPA 4:
+Ahora se necesita que el sitio web sea compatible con dispositivos moviles, arregla cualquier error que pueda tener la pagina web en celulares, para lograr una mejor visualizacion y que tenga buena legibilidad 
+Uso: Se necesita este promt para hacer que la pagina sea compatible con los dispositivos moviles, debido a que es en donde mas se usuara la pagina web
+UTILIDAD: Se logro arregla varios problemas, como algunos enlaces que no se veia bien, reduciendo el tamaño del texto para que tenga una mejor legibilidad mejorando la fluidez de la pagina en dispositivos moviles
