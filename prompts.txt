@@ -1,9 +1,12 @@
 ETAPA 1: 
 Ayudame a crear una pagina web en esta pagina se debe de promocionar un nuevo telefono que salio en el mercado, para empezar necesitamos que la version inicial del sitio se presente el producto, explique brevemente sus caracterisiticas y que el sitio tenga una estructura basica  
-El proposito de este promt es para crear el diseño inicial de la pagina web y enseñar las caracterisiticas del celular que se quiere promocionar
+Uso: El proposito de este promt es para crear el diseño inicial de la pagina web y enseñar las caracterisiticas del celular que se quiere promocionar
 UTILIDAD: Fue de gran ayuda este promt debido a que creo las bases de el sitio web que se esta creando
 ETAPA 2:
- Bien, ahora se necesita mejorar la interfaz del sitio web, seria de gran ayuda si el sitio mejor la distribuicion de los datos, tambien que tenga un diseño mas moderno al igual que tenga un estilo mas trabajado 
- Ahora en este promt se necesita que la pagina tenga un estilo mas moderno con una mejor interfaz para que sea del agrado del cliente
- UTILIDAD: No hubo cambios drasticos en el diseño, se mantuvo pero se mejoro la interfaz haciendola mas intuitiva para los usuarios y añadiendo cosas extras como las epecificaciones del celular
- 
+Bien, ahora se necesita mejorar la interfaz del sitio web, seria de gran ayuda si el sitio mejor la distribuicion de los datos, tambien que tenga un diseño mas moderno al igual que tenga un estilo mas trabajado 
+Uso: Ahora en este promt se necesita que la pagina tenga un estilo mas moderno con una mejor interfaz para que sea del agrado del cliente
+UTILIDAD: No hubo cambios drasticos en el diseño, se mantuvo pero se mejoro la interfaz haciendola mas intuitiva para los usuarios y añadiendo cosas extras como las epecificaciones del celular
+ETAPA 3:
+Ahora seria de utilidad si se puede añadir mas informacion acerca del producto, por ejemplo, una comparativa con otros productos, cuales son los beneficios de tener este producto y tambien cuales son sus caracteristicas principales, todo esto para que ayude a que se venda mejor el producto para los usuarios que visiten la pagina 
+Uso: Este promt fue hecho para que la pagina tenga mas informacion sobre el telefono, añadiendo motivos por el cual los usuarios deberian comprar el celular
+UTILIDAD: Se añadio informacion mas clara sobre el producto, ademas de añadir una tabla comparativa con otros celulares para resaltar mas el producto que se quiere vender

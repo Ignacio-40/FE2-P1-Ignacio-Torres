@@ -252,16 +252,18 @@ h1 {
 }
 
 .split-layout li {
-  margin-bottom: 0.8rem;
-  padding-left: 1.25rem;
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
   position: relative;
+  line-height: 1.5;
 }
 
 .split-layout li::before {
-  content: "•";
+  content: "✓";
   position: absolute;
   left: 0;
   color: var(--primary);
+  font-weight: bold;
 }
 
 .about-image {
@@ -319,12 +321,57 @@ h1 {
   color: var(--muted);
 }
 
-.footer {
-  padding: 2rem;
-  text-align: center;
-  color: var(--muted);
-  background: var(--text);
+.section-comparison {
+  background: var(--surface);
+}
+
+.comparison-table {
+  margin-top: 2rem;
+  overflow-x: auto;
+}
+
+.comparison-table table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--surface);
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 0 4px 20px var(--shadow);
+}
+
+.comparison-table th,
+.comparison-table td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid #e3e8ef;
+}
+
+.comparison-table th {
+  background: var(--primary);
   color: #ffffff;
+  font-weight: 600;
+}
+
+.comparison-table tbody tr:nth-child(even) {
+  background: #f9fbff;
+}
+
+.comparison-table tbody tr:hover {
+  background: #eef5ff;
+}
+
+.comparison-cta {
+  margin-top: 2rem;
+  text-align: center;
+  padding: 2rem;
+  background: linear-gradient(135deg, #eef5ff 0%, #ffffff 100%);
+  border-radius: 1rem;
+}
+
+.comparison-cta p {
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+  color: var(--text);
 }
 
 .footer .container {
